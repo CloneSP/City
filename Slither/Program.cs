@@ -21,7 +21,7 @@ namespace Slither
                 List<Character> characters = new List<Character>();
                 Character[] OnePiece =
                 {
-                new Character("Луффи"),
+                new Character("Лу ффи"),
                 new Character("Зоро"),
                 new Character("Нами"),
                 new Character("Усопп"),
