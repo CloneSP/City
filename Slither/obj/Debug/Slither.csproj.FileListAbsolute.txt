@@ -1,0 +1,7 @@
+C:\Users\CloneSP\source\repos\Slither\Slither\bin\Debug\Slither.exe.config
+C:\Users\CloneSP\source\repos\Slither\Slither\bin\Debug\Slither.exe
+C:\Users\CloneSP\source\repos\Slither\Slither\bin\Debug\Slither.pdb
+C:\Users\CloneSP\source\repos\Slither\Slither\obj\Debug\Slither.csproj.AssemblyReference.cache
+C:\Users\CloneSP\source\repos\Slither\Slither\obj\Debug\Slither.csproj.CoreCompileInputs.cache
+C:\Users\CloneSP\source\repos\Slither\Slither\obj\Debug\Slither.exe
+C:\Users\CloneSP\source\repos\Slither\Slither\obj\Debug\Slither.pdb
